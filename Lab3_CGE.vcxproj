@@ -140,12 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Lab3_CGE.cpp" />
-    <ClCompile Include="Technique.cpp" />
-    <ClCompile Include="Texture.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Technique.h" />
-    <ClInclude Include="Texture.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
